@@ -67,8 +67,6 @@ wire Sum, Carry;
 
 wire Diff, Borrow;
 
-
-
 half_adder ha_uut (
 
 .A(A), .B(B),
